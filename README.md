@@ -1,0 +1,2 @@
+# Doubly-Fed-Induction-Generator-DFIG-Simulator-Modeling-in-Matlab
+This work develops a code to simulate the behavior of a Doubly Fed Induction Generator, providing a dynamic, transparent and accessible environment. The project includes a wind system model, DFIG with flexible component integration and a comprehensive model covering everything, aiming to support in-depth analysis and comparison of DFIG performance.
